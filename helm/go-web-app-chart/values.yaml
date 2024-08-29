@@ -8,7 +8,7 @@ image:
   repository: jansoltys9/go-web-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "10617300142"
+  tag: "10617863030"
 
 imagePullSecrets: []
 nameOverride: ""
